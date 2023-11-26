@@ -3,7 +3,7 @@
 
 ![projeto-website-spa-universe](https://github.com/viniccius-dev/spa-universe/assets/109040394/c9e27d49-759a-49af-9cb9-3a3910de3699)
 
-![Data Release](https://img.shields.io/badge/data_release-november/23-yellow.svg)
+![Data Release](https://img.shields.io/badge/date_release-november/23-yellow.svg)
 
 ## Descrição do projeto
 
